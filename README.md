@@ -86,7 +86,7 @@ invoice-ocr/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/invoice-ocr.git
+git clone https://github.com/Saravananb91/text-extraction-from-bills.git
 cd invoice-ocr
 ```
 
