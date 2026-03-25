@@ -179,10 +179,13 @@ tests/test_accuracy.py::TestCalculateAccuracy::test_identical_strings  PASSED
 
 ## 👤 Author
 
-**Your Name**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+Saravanan B - [mrsaravananb@gmail.com ](mrsaravananb@gmail.com)
 
+Project Link: [https://github.com/Saravananb91/road-pothole-](https://github.com/Saravananb91/road-pothole-)
+
+Portfolio website : [portfolio-saravananb.vercel.app](portfolio-saravananb.vercel.app ) 
+
+Linkedin: [www.linkedin.com/in/saravanan-b-46244b290](www.linkedin.com/in/saravanan-b-46244b290)
 ---
 
 ## 📄 License
