@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+easyocr>=1.7.1
+Pillow>=10.0.0
+pandas>=2.0.0
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+mysql-connector-python>=8.3.0
+editdistance>=0.6.3
+python-dotenv>=1.0.0
+pytest>=8.0.0
