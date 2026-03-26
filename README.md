@@ -1,4 +1,4 @@
-# 🧾 Invoice Information Extraction
+# 🧾 Text Extraction from Store Bills
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
